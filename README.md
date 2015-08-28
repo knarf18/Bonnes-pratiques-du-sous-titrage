@@ -6,5 +6,5 @@ J'ai lu de nombreux articles, tutoriels mais souvent il existe des différences 
 
 L'idée est donc d'essayer de mettre en place une liste de bonnes pratiques pour essayer d'améliorer le sous-titrage sourds et malentendants (SM, SME) sur le web et aider les personnes de bonne volonté à le faire le mieux possible.
 
-[Pour les questions et commentaires](https://gist.github.com/knarf18/76f3738e970e8efa9243)
+[Pour les questions et commentaires c'est là!](https://gist.github.com/knarf18/76f3738e970e8efa9243)
  
