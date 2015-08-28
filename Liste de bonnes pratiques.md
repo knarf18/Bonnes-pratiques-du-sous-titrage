@@ -16,3 +16,5 @@
 
 
 Je n'ai pas parlé des couleurs dans un premier temps car la plupart des plateformes ne prennent pas en compte le balisage des fichiers de sous-titre.
+
+[Pour les questions et commentaires c'est là!](https://gist.github.com/knarf18/76f3738e970e8efa9243)
