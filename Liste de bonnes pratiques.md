@@ -7,7 +7,7 @@
 7. L'orthographe est la plus irréprochable possible
 8. L’exposition minimum du sous-titre est de 1 seconde
 9. L’exposition maximum du sous-titre est de 10 secondes
-10. L’écart entre deux sous-titres (blank) est de 2 secondes (120 ms)
+10. L’écart entre deux sous-titres (blank) est de 120 ms
 11. Le sous-titre démarre 50 à 200 ms avant le prononcé voire au maximum sur le prononcé. Jamais après
 12. Pas de sous-titre sur un changement de plan (CP), le mettre avant ou après
 13. En cas de dialogue utiliser le tiret
