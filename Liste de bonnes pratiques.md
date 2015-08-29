@@ -1,3 +1,6 @@
+Pour l'instant cette liste est une base par rapport à mes multiples lectures à ce sujet qui parfois se contredisent donc elle est là pour être corrigée, améliorée, et que l'on y ajoute tout ce qui peut aider à l'amélioration des sous-titrages.
+
+
 1. 40 caractères maximum par ligne (CPL)
 2. Deux lignes maximum
 3. 15 à 20 caractères maximum par seconde (CPS ou RS reading speed)
