@@ -3,7 +3,7 @@ Pour l'instant cette liste est une base par rapport à mes multiples lectures à
 
 1. 40 caractères maximum par ligne (CPL)
 2. Deux lignes maximum
-3. 15 à 20 caractères maximum par seconde (CPS ou RS reading speed)
+3. 15 à 20 caractères maximum par seconde (CPS)
 4. Les sons utiles à la compréhension sont spécifiés entre crochets
 5. Les césures (coupe des sous-titres) sont réalisées de manière logique.
 6. Les majuscules sont accentuées
